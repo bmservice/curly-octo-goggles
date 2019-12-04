@@ -10,7 +10,8 @@ public class Test02 {
         test02.getAgfe(1);
 
     }
-    int age=5;
+    int age=10;
+    String name="tom";
     public int setAge(){
         age-=2;
         return age;
