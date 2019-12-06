@@ -3,12 +3,9 @@ import java.time.temporal.TemporalAdjuster;
 import java.time.temporal.TemporalAdjusters;
 
 public class Test02 {
-
-
     public static void main(String[] args) {
         Test02 test02=new Test02();
         test02.getAgfe(1);
-
     }
     int age=10;
     String name="tom";
